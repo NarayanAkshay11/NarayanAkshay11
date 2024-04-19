@@ -1,11 +1,11 @@
 ### Hi there 👋
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/NarayanAkshay11">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Akshay+Narayanan;Engineer+%7C+AI+Enthusiast+%7C+Creative+Developer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
 </a>
 <br/>
 
-<a href="https://gkos.dev/Resume.pdf">
+<a href="https://drive.google.com/file/d/17iS9Et8Lg3OW4L0c0h1jFhdF99MdxVTY/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/akshay-narayanan-b-655a4023a/">
