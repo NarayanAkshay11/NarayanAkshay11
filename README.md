@@ -23,7 +23,7 @@
 
 </p>
 
-* 📖 Pursuing BE in **Computer Engineering** with Minor in Data Analytics @ [Nanyang Technological University](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 Pursuing BE in **Computer Engineering** with Minor in Data Analytics @ [**Nanyang Technological University**](https://www.ntu.edu.sg/).
 
 * 💻 Currently building several ML and CyberSec projects.
 
