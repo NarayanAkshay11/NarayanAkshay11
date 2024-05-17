@@ -75,10 +75,10 @@ button.primary.ghost {
 	background-color: transparent;
 	color: #02899C;
 }
-button.a{
+button.primary.a,button.primary.ghost.a{
 	color:#C6E0FF;
 }
-button.a::hover{
+button.primary.a::hover,button.primary.ghost.a::hover{
 	color:##FFDC5E;
 }
 .skills {
