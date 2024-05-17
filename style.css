@@ -75,7 +75,12 @@ button.primary.ghost {
 	background-color: transparent;
 	color: #02899C;
 }
-
+button.a{
+	color:#C6E0FF;
+}
+button.a::hover{
+	color:##FFDC5E;
+}
 .skills {
 	background-color: #1F1A36;
 	text-align: left;
