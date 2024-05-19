@@ -53,13 +53,31 @@ p {
   left: 30px;
 }
 
-.card-container .round {
-  border: 1px solid #03bfcb;
-  border-radius: 50%;
-  padding: 7px;
-  width: 320px; /* Adjust the width as needed */
-  height: 320px; /* Adjust the height as needed */
-  object-fit: cover;
+.card-container .blob {
+  width:300px;
+  height:300px;
+  border-radius: 60% 40% 40% 60% / 60% 40% 60% 40%;
+  overflow: hidden;
+  animation: flow 4s infinite ease-in-out;
+}
+.card-container .blob img {
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+@keyframes flow{
+  0%{
+    border-radius: 60% 40% 40% 60% / 60% 40% 60% 40%;
+  }
+  35%{
+    border-radius: 80% 70% 60% 60% / 80% 70% 60% 60%;
+  }
+  70%{
+    border-radius: 70% 90% 60% 70% / 80% 90% 50% 90%;
+  }
+  100%{
+    border-radius: 60% 40% 40% 60% / 60% 40% 60% 40%;
+  }
 }
 
 .btn {
