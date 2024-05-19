@@ -58,6 +58,7 @@ p {
   height:300px;
   border-radius: 60% 40% 40% 60% / 60% 40% 60% 40%;
   overflow: hidden;
+  position:center;
   animation: flow 4s infinite ease-in-out;
 }
 .card-container .blob img {
